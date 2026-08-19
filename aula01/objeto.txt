@@ -1,4 +1,7 @@
-volei
+VÔLEI
 
-bola -> redonda, cor, marca -> quicar(), rolar()
-rede -> cor, altura, 
+OBJETO     3 CARACTERÍSTICA                   2 COMPORTAMENTOS
+
+jogador -> nome, posição, número da camisa -> sacar(), atacar()
+bola    -> cor, tamanho, peso              -> quicar(), ser lançada()
+rede    -> altura, largura, material       -> dividir a quadra(), receber a bola()
